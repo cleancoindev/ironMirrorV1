@@ -16,11 +16,11 @@ function MyApp({ Component, pageProps }: AppProps) {
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta
           name="description"
-          content="SkyFunding SkySol Token Claim App"
+          content="IrMir-Art Token App"
         />
         <meta
           name="keywords"
-          content="thirdweb token drop, thirdweb token transfer, thirdweb token claim, thirdweb token claim phases"
+          content="thirdweb token drop, thirdweb token transfer, thirdweb token claim, thirdweb token claim phases, ironmirror, "
         />
       </Head>
       <Component {...pageProps} />
